@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF92C3A-3680-4814-A36C-F382A8F0B150}|tpmodul8_1302223045\\tpmodul8_1302223045.csproj|c:\\users\\harit\\onedrive\\documents\\tel-u sem 4\\tp kpl\\tpmodul8_1302223045\\tpmodul8_1302223045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF92C3A-3680-4814-A36C-F382A8F0B150}|tpmodul8_1302223045\\tpmodul8_1302223045.csproj|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\tpmodul8_1302223045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF92C3A-3680-4814-A36C-F382A8F0B150}|tpmodul8_1302223045\\tpmodul8_1302223045.csproj|solutionrelative:tpmodul8_1302223045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json",
+              "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_1302223045\\bin\\Debug\\net8.0\\covid_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T19:00:00.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "tpmodul8_1302223045\\Program.cs",
               "ToolTip": "C:\\Users\\harit\\OneDrive\\Documents\\TEL-U SEM 4\\TP KPL\\tpmodul8_1302223045\\tpmodul8_1302223045\\Program.cs",
               "RelativeToolTip": "tpmodul8_1302223045\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwHIAAACiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T15:34:42.536Z",
               "EditorCaption": ""
